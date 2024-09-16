@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goineyet.github.io/sitemap.html.gz
+Sitemap: https://goineyet.github.io/app/sitemap.html.gz
+Sitemap: https://goineyet.github.io/assets/sitemap.html.gz
+Sitemap: https://goineyet.github.io/css/sitemap.html.gz
+Sitemap: https://goineyet.github.io/includes/sitemap.html.gz
+Sitemap: https://goineyet.github.io/item/sitemap.html.gz
+Sitemap: https://goineyet.github.io/src/sitemap.html.gz
